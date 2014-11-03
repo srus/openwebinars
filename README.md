@@ -1,4 +1,3 @@
-openwebinars
-============
+# openwebinars
 
-Some files from my course at OpenWebinars https://openwebinars.net/
+Some stuff from my articles and courses at [OpenWebinars](https://openwebinars.net/).
