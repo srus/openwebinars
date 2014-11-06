@@ -2,6 +2,8 @@
 
 ![Bower](https://raw.githubusercontent.com/srus/openwebinars/master/articles/20141102-bower/doc/img/bower-logo.png)
 
+_Esta es una copia de mi artículo [publicado en OpenWebinars](https://openwebinars.net/gestionando-dependencias-en-front-end-con-bower/)_.
+
 [__Bower__](http://bower.io/) es un __gestor de paquetes__. Si alguna vez has usado [apt-get](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool), [npm](http://en.wikipedia.org/wiki/Npm_(software)), [pip](http://en.wikipedia.org/wiki/Pip_(package_manager)) o [gem](http://en.wikipedia.org/wiki/RubyGems), felicidades, ya sabes lo que es un gestor de paquetes.
 Lo que hace a Bower diferente del resto es que es un gestor de paquetes para el _front-end_, algo impensable hasta hace apenas dos años.
 
@@ -145,7 +147,7 @@ $ bower install --save bootstrap fontawesome jquery
 
 De esta forma Bower añadirá automáticamente estos paquetes a **bower.json**:
 
-```bash
+```json
 {
   "name": "Demo",
   "version": "0.0.1",
