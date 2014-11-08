@@ -1,6 +1,6 @@
 # Gestionando dependencias en front-end con Bower
 
-![Bower](https://raw.githubusercontent.com/srus/openwebinars/master/articles/20141102-bower/doc/img/bower-logo.png)
+![Bower](img/bower-logo.png)
 
 _Esta es una copia de mi artículo [publicado en OpenWebinars](https://openwebinars.net/gestionando-dependencias-en-front-end-con-bower/)_.
 
